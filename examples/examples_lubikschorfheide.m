@@ -3,7 +3,8 @@
 % to solve DSGE models using the Lubik-Schorfheide (2003) method.
 % Each example uses a basic New Keynesian model with different options.
 
-clear 
+clear
+addpath('../functions')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Example 1: Basic 3-Equation NK Model (Linear, Determinacy)

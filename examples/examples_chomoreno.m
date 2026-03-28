@@ -6,6 +6,7 @@
 % users can compare the two solution methods.
 
 clear
+addpath('../functions')
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Example 1: Basic 3-Equation NK Model (Linear, Determinacy)

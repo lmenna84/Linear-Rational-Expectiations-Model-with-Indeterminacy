@@ -29,6 +29,7 @@
 % =========================================================================
 
 clear
+addpath('../functions')
 
 %% Parameters (from Figure 1 of the paper)
 bet  = 0.99;    % discount factor (beta)
